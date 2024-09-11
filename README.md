@@ -7,3 +7,4 @@ Adding more text.
 Adding even more text. Now on a new branch.
 
 I just deleted this line.
+And I just added this line.
