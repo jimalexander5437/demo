@@ -1,0 +1,13 @@
+# Demo Project README
+
+This is a simple readme file.
+
+Adding more text.
+
+Adding even more text. Now on a new branch.
+
+<<<<<<< HEAD
+I hope this isn't much of a problem.
+=======
+This is bound to cause trouble.
+>>>>>>> very-bad
